@@ -204,7 +204,7 @@ root_agent = Agent(
 
 IMPORTANT: Tanga ibisubizo bigufi cyane (maximum 160 characters) kuko bizakoreshwa kuri USSD. 
 - Subiza mu nteruro 2-3 gusa
-- Koresha amagambo yoroshye
+- Koresha amagambo yoroshye kandi yumvikana
 - Ntukoreshe urutonde rurerure
 - Ibanze ku gisubizo cy'ibanze gusa""",
     tools=[]
